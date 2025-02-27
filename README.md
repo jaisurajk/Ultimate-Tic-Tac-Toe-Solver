@@ -4,7 +4,10 @@
     
 ## Objective
 
-We created a bot that can play Ultimate Tic-Tac-Toe by implementing the Monte Carlo Tree Search (MCTS) Algorithm.
+We created a bot that can play Ultimate Tic-Tac-Toe by implementing the Monte Carlo Tree Search (MCTS) Algorithm. The goal of this bot is to beat human players and two bots, rollout_bot and random_bot. Random_bot: Selects a random action every turn
+Rollout_bot: For every possible move from the immediate state, a finite number of games is sampled and the move with the highest expected turnout is selected.
+
+
 
 ## MODIFICATION OF MCTS_MODIFIED.PY
 
