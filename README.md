@@ -28,9 +28,9 @@ These functions will be called on the various stages of MCTS:
 - Rollout: Simulating the remainder of the game
 
   
+Goal of mcts_vanilla.py: Beat Rollout_bot most of the time for a tree size of 1000 nodes.
 
-- Goal of mcts_vanilla.py: Beat Rollout_bot most of the time for a tree size of 1000 nodes.
-- Goal of mcts_modified.py: Beat Rollout_bot most of the time for a tree size of 1000 nodes using our unique heuristic approach.
+Goal of mcts_modified.py: Beat Rollout_bot most of the time for a tree size of 1000 nodes using our unique heuristic approach.
 
 ## MODIFICATION OF MCTS_MODIFIED.PY
 
